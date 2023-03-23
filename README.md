@@ -1,2 +1,3 @@
-# Week-three-challenge
-JavaScript Week 3 Challenge
+# Challenge-3
+JavaScript-Password-Generator
+
